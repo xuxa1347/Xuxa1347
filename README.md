@@ -1,4 +1,4 @@
-Hi, I'm Mateus Neves, future full stack developer.
+Hi, my name is Mateus Neves, future full stack developer.
 Atualmente  estudando Front-end! 
 #programacaoporamor S2
 
